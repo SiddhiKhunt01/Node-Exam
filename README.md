@@ -1,8 +1,8 @@
-## Admin Credentials
+## Admin Credential
 - Email: admin@gmail.com
 - Password: 123456
 
-## API Routes
+# API Routes
 
 ### Authentication Routes
 - POST `http://localhost:5000/register` - Register a new user
